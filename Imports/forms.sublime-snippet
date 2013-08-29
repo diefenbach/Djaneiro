@@ -1,0 +1,7 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+    <content>from django import forms</content>
+    <tabTrigger>forms</tabTrigger>
+    <scope>source.python</scope>
+    <description>import forms</description>
+</snippet>

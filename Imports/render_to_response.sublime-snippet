@@ -1,0 +1,7 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+    <content>from django.shortcuts import render_to_response</content>
+    <tabTrigger>template</tabTrigger>
+    <scope>source.python</scope>
+    <description>import render_to_response</description>
+</snippet>

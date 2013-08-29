@@ -1,0 +1,7 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+    <content>from django.contrib.auth.models import User</content>
+    <tabTrigger>user</tabTrigger>
+    <scope>source.python</scope>
+    <description>import User</description>
+</snippet>

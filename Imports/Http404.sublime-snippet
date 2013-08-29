@@ -1,0 +1,7 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+    <content>from django.http import Http404</content>
+    <tabTrigger>404</tabTrigger>
+    <scope>source.python</scope>
+    <description>import Http404</description>
+</snippet>

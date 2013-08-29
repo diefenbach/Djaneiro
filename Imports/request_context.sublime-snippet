@@ -1,0 +1,7 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+    <content>from django.template import RequestContext</content>
+    <tabTrigger>template</tabTrigger>
+    <scope>source.python</scope>
+    <description>import RequestContext</description>
+</snippet>

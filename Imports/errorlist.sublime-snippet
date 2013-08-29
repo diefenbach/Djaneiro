@@ -1,0 +1,7 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+    <content>from django.forms.util import ErrorList</content>
+    <tabTrigger>errorlist</tabTrigger>
+    <scope>source.python</scope>
+    <description>import errorlist</description>
+</snippet>
