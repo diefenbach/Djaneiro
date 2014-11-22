@@ -1,6 +1,6 @@
 <!-- See http://www.sublimetext.com/docs/snippets for more information -->
 <snippet>
-    <content># coding=<utf-8></content>
+    <content># coding=utf-8</content>
     <tabTrigger>coding</tabTrigger>
     <scope>source.python</scope>
     <description>coding</description>
