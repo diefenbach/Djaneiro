@@ -1,0 +1,7 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+    <content>from django.http import HttpResponse</content>
+    <tabTrigger>httpresponse</tabTrigger>
+    <scope>source.python</scope>
+    <description>import HttpResponse</description>
+</snippet>
