@@ -1,6 +1,7 @@
 <!-- See http://www.sublimetext.com/docs/snippets for more information -->
 <snippet>
     <content>from django.utils.translation import ugettext_lazy as _</content>
+    <tabTrigger>import _</tabTrigger>
     <scope>source.python</scope>
     <description>import _</description>
 </snippet>

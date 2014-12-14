@@ -1,7 +1,7 @@
 <!-- See http://www.sublimetext.com/docs/snippets for more information -->
 <snippet>
-    <content>_(u"")</content>
+    <content>_(u"$1")</content>
     <tabTrigger>_</tabTrigger>
     <scope>source.python</scope>
-    <description>import _</description>
+    <description>_(u"")</description>
 </snippet>
