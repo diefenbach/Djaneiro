@@ -1,0 +1,7 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+    <content><![CDATA[# BOOKMARK]]></content>
+    <tabTrigger>bm</tabTrigger>
+    <scope>source.python</scope>
+    <description>set bookmark</description>
+</snippet>
