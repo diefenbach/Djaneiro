@@ -1,6 +1,6 @@
 <!-- See http://www.sublimetext.com/docs/snippets for more information -->
 <snippet>
-    <content>from django.core.urlresolvers import reverse</content>
+    <content>from django.urls import reverse</content>
     <tabTrigger>reverse</tabTrigger>
     <scope>source.python</scope>
     <description>import reverse</description>

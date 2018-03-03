@@ -1,0 +1,7 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+	<content>console.log($0);</content>
+    <tabTrigger>c</tabTrigger>
+    <scope>source.js</scope>
+    <description>console.log</description>
+</snippet>

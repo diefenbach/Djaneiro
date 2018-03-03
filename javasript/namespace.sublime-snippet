@@ -1,0 +1,7 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+	<content>NS = window.NS || {};</content>
+    <tabTrigger>ns</tabTrigger>
+    <scope>source.js</scope>
+    <description>Namespace</description>
+</snippet>

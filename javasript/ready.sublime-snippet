@@ -1,0 +1,11 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+	<content>
+\$(function() {
+    $0
+});
+    </content>
+    <tabTrigger>$r</tabTrigger>
+    <scope>source.js</scope>
+    <description>jQuery Ready</description>
+</snippet>

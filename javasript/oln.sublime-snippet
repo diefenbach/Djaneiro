@@ -1,0 +1,17 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+	<content>
+var myApp = {
+    x: 0,
+    y: 0,
+
+    f1: function(x, y) {
+        this.x = x;
+        this.y = y;
+    }
+};$0
+    </content>
+    <tabTrigger>oln</tabTrigger>
+    <scope>source.js</scope>
+    <description>Object Literal Notation</description>
+</snippet>

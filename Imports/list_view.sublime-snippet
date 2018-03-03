@@ -1,0 +1,7 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+    <content>from django.views.generic.list import ListView</content>
+    <tabTrigger>listview</tabTrigger>
+    <scope>source.python</scope>
+    <description>import ListView</description>
+</snippet>

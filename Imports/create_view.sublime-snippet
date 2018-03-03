@@ -1,0 +1,7 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+    <content>from django.views.generic.edit import CreateView</content>
+    <tabTrigger>createview</tabTrigger>
+    <scope>source.python</scope>
+    <description>import CreateView</description>
+</snippet>

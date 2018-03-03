@@ -1,0 +1,19 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+	<content>
+var $1 = function() {
+    var $1 = function(x) {
+        this.x = x;
+    }
+
+    $1.prototype.$2 = function() {
+        $0
+    }
+
+    return $1;
+}();
+    </content>
+    <tabTrigger>iife</tabTrigger>
+    <scope>source.js</scope>
+    <description>IIFE (Immediately Invoked Functional Expression)</description>
+</snippet>
