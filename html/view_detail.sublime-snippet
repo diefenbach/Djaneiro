@@ -1,0 +1,10 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+	<content><![CDATA[<h1>Delete</h1>
+<h1>{{ object.title }}</h1>
+
+]]></content>
+    <tabTrigger>list</tabTrigger>
+    <scope>text.html.django</scope>
+    <description>ListView template</description>
+</snippet>
